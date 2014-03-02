@@ -1,0 +1,5 @@
+ValueError: No JSON object could be decoded, http://www.icane.es/data/api/personal-income-tax-detail.json
+ValueError: No JSON object could be decoded, http://www.icane.es/data/api/agrarian-census-farms-surface.json
+ValueError: No JSON object could be decoded, http://www.icane.es/data/api/agrarian-census-farms-aus-surface.json
+ValueError: No JSON object could be decoded, http://www.icane.es/data/api/agriculture-fishing-yearbook-milk-quota.json
+ValueError: No JSON object could be decoded, http://www.icane.es/data/api/personal-income-tax-detail.json

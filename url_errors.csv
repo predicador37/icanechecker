@@ -1,0 +1,16 @@
+HTTPError = 500,Error Interno del Servidor,http://www.icane.es/data/scholarships-number-amount-educational-administration#timeseries
+HTTPError = 500,Error Interno del Servidor,http://www.icane.es/data/scholarships-number-amount-departament-destination#timeseries
+HTTPError = 500,Error Interno del Servidor,http://www.icane.es/data/scholarships-number-amount-origin#timeseries
+HTTPError = 500,Error Interno del Servidor,http://www.icane.es/data/scholarships-number-amount-department-type#timeseries
+HTTPError = 500,Error Interno del Servidor,http://www.icane.es/data/scholarships-universitary-number-amount-university-cantabria#timeseries
+HTTPError = 500,Error Interno del Servidor,http://www.icane.es/data/scholarships-universitary-number-amount-university-cantabria-type#timeseries
+HTTPError = 500,Error Interno del Servidor,http://www.icane.es/data/scholarships-universitary-number-amount-university-cantabria-funding#timeseries
+HTTPError = 500,Error Interno del Servidor,http://www.icane.es/data/budgets-settlement-local-entities-expenditure-area#timeseries
+HTTPError = 503,Service Unavailable,http://www.icane.es/data/pit-additional-data-2004#timeseries
+HTTPError = 503,Service Unavailable,http://www.icane.es/data/pit-net-tax-liability-2004#timeseries
+HTTPError = 503,Service Unavailable,http://www.icane.es/data/pit-general-deductions-2004#timeseries
+HTTPError = 503,Service Unavailable,http://www.icane.es/data/pit-autonomic-deductions-2004#timeseries
+HTTPError = 503,Service Unavailable,http://www.icane.es/data/pit-tax-payable-2004#timeseries
+HTTPError = 503,Service Unavailable,http://www.icane.es/data/pit-tax-payable-increment-2004#timeseries
+HTTPError = 503,Service Unavailable,http://www.icane.es/data/pit-tax-payable-increased-deductions-2004#timeseries
+HTTPError = 503,Service Unavailable,http://www.icane.es/data/pit-returns-securities-2005#timeseries
